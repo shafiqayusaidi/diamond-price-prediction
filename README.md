@@ -2,7 +2,7 @@
 
 # SUMMARY
 
-This project is to create a deep learning model using feed forward neural network by predicting if the breast cancer tumour is malignant or benign. The dataset is obtain from https://www.kaggle.com/datasets/shivam2503/diamonds
+This project is to create a deep learning model using feed forward neural network by predicting the diamond price. The dataset is obtain from https://www.kaggle.com/datasets/shivam2503/diamonds
 
 A correlation matrix map is plotted to evaluate which features contributes the most on the diagnosis of the tumour. From this matrix, it is concluded that the carat, clarity, depth and table features of the diamond contributes the most in this analysis.
 
