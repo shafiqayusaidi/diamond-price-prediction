@@ -11,7 +11,8 @@ A correlation matrix map is plotted to evaluate which features contributes the m
 
 The model is built with 1 input layer, 3 hidden layers, 1 dropout layer, and 1 output layer. 
 
-<img width="261" alt="Screenshot 2022-04-29 at 00 20 02" src="https://user-images.githubusercontent.com/58509210/165798955-9c668ff1-0705-4203-8979-6157179daad8.png">
+<img width="421" alt="Screenshot 2022-04-29 at 00 41 23" src="https://user-images.githubusercontent.com/58509210/165802510-7b0efb0d-f3d4-41a6-a038-9b2b7f1ee1f3.png">
+
 
 The model is trained using 50 epochs with a batch size of 100. An early stopping is added and the model stopped at epoch 14.
 
